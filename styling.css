@@ -1,0 +1,34 @@
+/*Web Template By WinglessWhistle*/
+body {
+    background-color: #101010;
+   }
+       h1 {
+           font-family: Ubuntu, Verdana;
+           color: #ffffff;
+       }
+       h2 {
+           font-family: Ubuntu, Verdana;
+           color: #00ff27;
+           }
+       #h2mb50 {
+           font-family: Ubuntu, Verdana;
+           color: #00ff27;
+           margin-bottom: 50px;
+       }
+       #h2mb502 {
+           font-family: Ubuntu, Verdana;
+           color: #00ff27;
+           margin-top: 50px;
+           margin-bottom: 50px;
+       }
+       
+        a {
+           color: #00ff27;
+           text-decoration: none;
+   }
+     #songthatisplaying {
+     color: #ffffff;
+     font-family: Ubuntu, Verdana;
+     text-decoration: none;
+     font-size: x-large;
+   }

@@ -1,6 +1,6 @@
 //Web Template By WinglessWhistle
 console.log("Web Template By @WinglessWhistle");
-const RadioAPI_URL = 'https://server1.wingless.cc:2087/api/live/nowplaying/winglessradio'; //replace with your station now playing url
+const RadioAPI_URL = 'https://radio.com:8080/api/live/nowplaying/radio'; //replace with your station now playing url
 async function getNowPlay() {
     const response = await fetch(RadioAPI_URL);
     const data = await response.json();

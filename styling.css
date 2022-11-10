@@ -6,9 +6,39 @@ body {
            font-family: Ubuntu, Verdana;
            color: #ffffff;
        }
+       #ww-title {
+           font-family: Ubuntu, Verdana;
+           color: #ffffff;
+       }
        h2 {
            font-family: Ubuntu, Verdana;
            color: #00ff27;
+           }
+       h3 {
+           font-family: Ubuntu, Verdana;
+           color: #00ff27;
+           }
+       #h2white {
+           font-family: Ubuntu, Verdana;
+           color: #ffffff;
+           }
+       blockquote {
+           font-family: Ubuntu, Verdana;
+           color: #ffffff;
+           }
+       p {
+           font-family: Ubuntu, Verdana;
+           color: #ffffff;
+           }
+       #h2whitesummary {
+           font-family: Ubuntu, Verdana;
+           color: #ffffff;
+           font-size: 95%;
+           }
+       #summarystyle {
+           font-family: Ubuntu, Verdana;
+           color: #ffffff;
+           cursor: pointer;
            }
        #h2mb50 {
            font-family: Ubuntu, Verdana;
